@@ -12,6 +12,7 @@ namespace Equations
             sas.Print();
             BaseEquations sas1 = new QuadraticEquations(1, 1, -6);
             sas1.RootsEquation();
+
             sas1.Print();
         }
     }
